@@ -1,3 +1,0 @@
-start "" "C:\Users\Gaming Chair\AppData\Local\Playnite\Playnite.FullscreenApp.exe" --hidesplashscreen
-start "" "CC:\Users\Gaming Chair\AppData\Local\Playnite\ffmpeg-7.0-essentials_build\bin\ffprobe.exe" 
-start "" "C:\Users\Gaming Chair\AppData\Local\Playnite\ffmpeg-7.0-essentials_build\bin\ffplay.exe" -vf scale=w=4096:h=2160:force_original_aspect_ratio=decrease -alwaysontop -noborder -autoexit -loglevel quiet "C:\Users\Gaming Chair\AppData\Local\Playnite\Themes\Fullscreen\Ophanim (Variant 1)\Video\ophanim intro.mp4"
